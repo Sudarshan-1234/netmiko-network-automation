@@ -1,0 +1,9 @@
+- device_type: linux
+  host: 172.26.171.101
+  username: root
+  password: cisco@123
+
+- device_type: linux
+  host: 172.26.171.102
+  username: root
+  password: cisco@1234
